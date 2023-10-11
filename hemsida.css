@@ -1,0 +1,20 @@
+button{
+    color: solid black;
+    background-color: white;
+    font-family: 'Rubik', sans-serif;
+    border-width: 0.2px;
+    width: 120px;
+    height: 80px;
+    margin-top: 100px;
+
+    
+}
+
+
+
+button:hover{
+    border-bottom: solid #FFD700;
+    border-bottom-width: 5px ;
+    transition-bo;
+}
+
